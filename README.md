@@ -1,1 +1,1 @@
-Pratice Projects with Grid & Flex Layout 
+Layout pratice projects with Grid & Flexbox
